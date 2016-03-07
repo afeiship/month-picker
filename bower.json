@@ -1,0 +1,26 @@
+{
+  "name": "month-picker",
+  "description": "A month-picker widget for mobile phone.",
+  "main": "",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "month-picker"
+  ],
+  "homepage": "https://github.com/afeiship/month-picker",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "next-js-core2": "*"
+  }
+}

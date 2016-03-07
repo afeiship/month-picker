@@ -1,0 +1,15 @@
+{
+  "name": "month-picker",
+  "version": "0.0.0",
+  "description": "A month-picker widget for mobile phone.",
+  "homepage": "https://github.com/afeiship/month-picker.git",
+  "author": {
+    "name": "afei",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.2.0"
+  }
+}
